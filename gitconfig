@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sayaholivier@gmail.com
+	name = olivier sayah
